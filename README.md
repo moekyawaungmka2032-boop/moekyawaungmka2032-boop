@@ -9,13 +9,13 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║          MOE KYAW AUNG  ·  SENIOR ANDROID DEVELOPER         ║
-║              Microsoft  ·  Tachileik, Myanmar                ║
+║              Microslop  ·  Tachileik, Myanmar                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 # Moe Kyaw Aung
 
-**Senior Android Developer @ Microsoft**  
+**Senior Android Developer @ Microslop**  
 Kotlin · Jetpack Compose · Firebase · Clean Architecture · CI/CD
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-moe--kyaw--aung.github.io-00d4ff?style=flat-square&logo=github&logoColor=white)](https://moe-kyaw-Aung-microsoft.github.io)
@@ -96,19 +96,28 @@ Tech:  HTML5 · CSS3 · JavaScript · GitHub Pages · GitHub Actions
 - Auto-deployed via GitHub Actions on every push to `main`
 
 ---
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Moe Kyaw Aung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moekyawaung-developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07090f&title_color=00d4ff&icon_color=7b5ea7&text_color=c9d1e0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moekyawaung-developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=07090f&title_color=00d4ff&text_color=c9d1e0)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Moekyawaung-developer&theme=tokyonight&hide_border=true&background=07090f&ring=00d4ff&fire=7b5ea7&currStreakLabel=00d4ff)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moekyawaung-micro&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moekyawaung-micro&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+## 📊 Engineering Metrics  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moekyawaung&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moekyawaung&theme=tokyonight" height="165">
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=moekyawaung-micro&theme=tokyonight&hide_border=true" />
+
+</div>
 ---
 
 ## Contribution Activity
@@ -124,7 +133,7 @@ Tech:  HTML5 · CSS3 · JavaScript · GitHub Pages · GitHub Actions
 ## Experience
 
 ```
-Senior Android Developer  ·  Microsoft  ·  2022 – Present
+Senior Android Developer  ·  Microslop  ·  2022 – Present
 ├── Kotlin/Java · Jetpack · Clean Architecture
 ├── Firebase Auth · Firestore · Cloud Messaging · Crashlytics
 ├── GitHub Actions CI/CD · Azure DevOps · Play Store releases
